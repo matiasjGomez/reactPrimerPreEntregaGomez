@@ -1,3 +1,12 @@
+# Primer Pre-entrega del para el curso de React de coderhouse. Este trabajo tiene:
+
+## Un componente NavBar en el cual se puede elegir productos por categoría
+## Un componente CartWidget con su respectiva notificación hardcodeada
+## Incorporada la librería de Bootstrap
+## Directorio de imgs para importar
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
