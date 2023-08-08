@@ -1,17 +1,13 @@
 import NavBar from './components/NavBar'
-import CartWidget from './components/CartWidget'
+import ItemListContainer from './components/ItemListContainer';
 import './components/style.css'
 
 
 function App() {
   return (
     <>
-    <div>
       <NavBar />
-    </div>
-    <div>
-    <CartWidget />
-    </div>
+      <ItemListContainer greeting={'Hola, acá irán los productos'}/>
     </>
   );
 }

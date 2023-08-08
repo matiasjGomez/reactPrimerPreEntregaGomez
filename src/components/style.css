@@ -38,6 +38,11 @@ ul li{
     color: #ff4136;
   }
 
+  .navbar-toggler{
+    background: linear-gradient(to right, rgb(237,35,38), rgb(165, 28, 117));
+    color: transparent;
+  }
+
   /*  cartwidget  */
 
   .cart-widget {
@@ -71,4 +76,14 @@ ul li{
     display: flex;
     align-items: center;
     justify-content: center;
+  }
+
+  /*will delete this later*/
+  
+  .itemsPresentation {
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+    font-weight: bolder;
+    color: rgb(0,31,63);
   }

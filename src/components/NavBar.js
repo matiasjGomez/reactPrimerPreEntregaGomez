@@ -1,4 +1,5 @@
 import './style.css'
+import CartWidget from './CartWidget'
 import logoImage from '../img/tgbg-lowres.png'
 
 const NavBar = () => {
@@ -6,11 +7,11 @@ const NavBar = () => {
         <div className='container-fluid'>
             <header className='row navbar-custom'>
                 <div className='col-lg-12 col-12'>
-                <nav className="navbar navbar-custom">
+                <nav className="navbar navbar-custom navbar-expand-lg">
                 <div className="container-fluid">
                 <a className="navbar-brand" href="../public/index.html"><img src={logoImage} className="logo" alt='LOGO'></img></a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
+                <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span className="navbar-toggler-icon"></span>
                 </button>
                 <div className="collapse navbar-collapse " id="navbarSupportedContent">
                 <ul className="text-white navbar-nav me-auto mb-2 mb-lg-0 text-uppercase">
@@ -39,6 +40,7 @@ const NavBar = () => {
                 </form>
                 </div>
             </div>
+            <CartWidget />
             </nav>
                 </div>
             </header>
