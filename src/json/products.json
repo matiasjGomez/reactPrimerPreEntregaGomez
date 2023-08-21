@@ -5,7 +5,7 @@
         "name": "Legends of Zelda: Tears of the Kingdom",
         "sinopsis": "Explora la vasta superficie y los cielos de Hyrule. Una épica aventura a través de la superficie y los cielos de Hyrule te espera en The Legend of Zelda™: Tears of the Kingdom, disponible exclusivamente para la consola Nintendo Switch™. En esta secuela del juego The Legend of Zelda: Breath of the Wild, decidirás tu propio camino a través de los extensos paisajes de Hyrule y las islas que flotan en los vastos cielos. ¿Podrás aprovechar el poder de las nuevas habilidades de Link para luchar contra las malévolas fuerzas que amenazan al reino?",
         "category_id": "Nintendo Switch",
-        "image": "../img/totk.jpg ",
+        "image": "/images/totk.jpg ",
         "price": 46900
     },
     {
@@ -13,7 +13,7 @@
         "name": "Diablo IV",
         "sinopsis": "La legendaria serie RPG de acción regresa con Diablo IV. Esta espectacular evolución introduce un vasto nuevo mundo para explorar, lleno de promesas de aventuras interminables, demonios letales y botines legendarios. Descubre la tierra corrupta de Santuario mientras desciende a una nueva era de oscuridad. Lilith, hija de Mefisto, Señor del Odio, ha sido liberada del exilio y ahora su funesta influencia amenaza con consumir el mundo. Solo tú y las personas que te acompañan en la aventura se interponen entre Lilith y la ruina de Santuario. Explora Santuario en solitario o en compañía mientras avanzas en la fascinante campaña de Diablo IV, aceptando misiones, liberando ciudades y luchando contra jefes épicos",
         "category_id": "Playstation 4",
-        "image": "../img/diabloiv.webp",
+        "image": "/images/diabloiv.webp",
         "price": 44776
     },
     {
@@ -21,7 +21,7 @@
         "name": "Street Fighter 6",
         "sinopsis": "Sal a la calle con nuevas formas de jugar y luchar en la próxima evolución de la legendaria serie de lucha de Capcom. Street Fighter 6 es el próximo paso en la evolución de la serie de Street Fighter, e incluye innovadoras funcionalidades de jugabilidad, así como mejores gráficos para todos los aspectos del juego. Con el poder del exclusivo motor de Capcom, RE ENGINE, la experiencia de Street Fighter 6 abarca tres modos de juego diferentes: Fighting Ground, World Tour y Battle Hub. Tu camino para convertirte en un luchador mundial comienza aquí. Tu momento. Tu lucha.",
         "category_id": "Xbox Series X",
-        "image": "../img/sfvi.webp",
+        "image": "/images/sfvi.webp",
         "price": 43699
     },
     {
@@ -29,7 +29,7 @@
         "name": "Mortal Kombat 1",
         "sinopsis": "Una nueva era inicia. Está en nuestra sangre. Descubro el renacimiento del Universo de Mortal Kombat creado por el Dios del Fuego Liu Kang. Mortal Kombat 1 marca el comienzo de la nueva era de la icónica franquicia con un nuevo sistema de pelea, modos de juego, y Fatalities",
         "category_id": "Playstation 5",
-        "image": "../img/MK1.jpg",
+        "image": "/images/MK1.jpg",
         "price": 43000
     }
 ]

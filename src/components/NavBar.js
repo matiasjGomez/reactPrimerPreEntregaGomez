@@ -30,7 +30,7 @@ const NavBar = () => {
                         <li><Link to="/category/Xbox Series X"className="dropdown-item">Xbox Series X</Link></li>
                         <li><Link to="/category/Nintendo Switch" className="dropdown-item">Nintendo Switch </Link></li>
                         <li><hr className="dropdown-divider"></hr></li>
-                        <li><Link to="/category/Accesories and Peripherals"className="dropdown-item">Accesories & Peripherals</Link></li>
+                        <li><Link to="/category/Accesories-and-Peripherals"className="dropdown-item">Accesories & Peripherals</Link></li>
                     </ul>
                     </li>
                     <li className="nav-item">
