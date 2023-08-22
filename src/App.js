@@ -7,7 +7,7 @@ import Home from './routes/Home';
 import ItemDetail from './components/ItemDetail';
 import Contact from './routes/Contact'
 import CartItemsContainer from './routes/CartItemsContainer';
-import ItemListContainer from './routes/ItemListContainer';
+import ItemListContainer from './components/ItemListContainer';
 
 function App() {
   return (
